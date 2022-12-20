@@ -1,0 +1,12 @@
+D:\C#\EventGuests\EventGuests\bin\Debug\EventGuests.exe.config
+D:\C#\EventGuests\EventGuests\bin\Debug\EventGuests.exe
+D:\C#\EventGuests\EventGuests\bin\Debug\EventGuests.pdb
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.csproj.AssemblyReference.cache
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.csproj.SuggestedBindingRedirects.cache
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.Properties.Resources.resources
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.csproj.GenerateResource.cache
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.csproj.CoreCompileInputs.cache
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.exe
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.pdb
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.frmCategory.resources
+D:\C#\EventGuests\EventGuests\obj\Debug\EventGuests.frmGuests.resources
